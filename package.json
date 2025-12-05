@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "dist/carve-ui.umd.js",
   "module": "dist/carve-ui.es.js",
-  "type": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": ["src","dist"],
   "scripts": {
     "dev": "vite",

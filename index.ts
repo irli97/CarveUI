@@ -1,3 +1,3 @@
 export {
-    BaseWorld
-} from './src/components'
+    BaseButton
+} from './src'
