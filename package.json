@@ -1,7 +1,7 @@
 {
   "name": "carve-ui",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/carve-ui.umd.js",
   "module": "dist/carve-ui.es.js",
   "types": "dist/index.d.ts",
