@@ -1,7 +1,7 @@
 <template>
-  <div style="margin: 10px" class="p-[89px] rounded text-light-green bg-bright-forest">
-    BaseWorld 
-  </div>
+  <button class="p-[40px] rounded text-black text-light-green text-light-green">
+    Buttons
+  </button>
 </template>
 
 <script setup lang="ts">
